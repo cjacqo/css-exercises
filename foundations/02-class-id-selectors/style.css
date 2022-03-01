@@ -1,0 +1,29 @@
+.number {
+    width: 100%;
+    background-color: lightpink;
+    font-family: sans-serif;
+    line-height: 100%;
+    padding: 0.125rem 0;
+}
+
+.number.small {
+    font-size: 16px;
+}
+
+.number.medium {
+    font-size: 24px;
+}
+
+.number.large {
+    font-size: 32px;
+}
+
+#link {
+    background-color: #fff;
+    color: blue;
+}
+
+#highlight {
+    background-color: lightgreen;
+    font-weight: bold;
+}
